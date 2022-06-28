@@ -1,7 +1,7 @@
 ﻿// 配置地址 --> clan://localhost/TVBox/bc.json
 
 {
-"spider":"https://gitea.com/dlm/tvbo/raw/branch/main/bc.jar",
+"spider":"https://whhgr.github.io/dlmbo/bc.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93aGhnci5naXRodWIuaW8vZGxtYm8vdHYvYmMudHh0"]}]}],
 
 
